@@ -1,0 +1,8 @@
+{
+  "theme": "monochrome",
+  "database": "data_vault.db",
+  "target_fps": 120,
+  "eye_guard_enabled": false,
+  "audio_output_dir": "audio",
+  "max_chunk_words": 150
+}
